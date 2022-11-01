@@ -1,0 +1,13 @@
+Ejercicio
+
+1)crear un menu con las opciones(numeros)
+  -Agregar nodo a lista
+  -listar
+  -Buscar valor
+  -Eliminar nodo lista
+  -Ordenar los nodos de menor a mayor(ord inser, ord seleccion)
+  8,4,7,6,5,
+
+
+2)generar los metodos necesarios ocupando el ingreso de teclado
+

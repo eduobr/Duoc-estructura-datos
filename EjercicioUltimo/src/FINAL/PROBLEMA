@@ -1,0 +1,17 @@
+Problema
+-El colegio porros Sa desea implementar un sistema de 
+administracion de alumnos, en los cuales registrara:
+codigo,nombre,edad,sexo,notas(arreglo 3),situacion-
+-usted debera utilizar arbooles binarios de busqueda,
+pilas dinamicas, colas y listas enlazadas.
+1)registrar en una lusta enlazada los alumnos,
+2)definir su situacion dependiendo de sus notas
+3)traspasar de la lista enlazada a un arbol binario
+todos los alumnos, ordenandolos por edad
+4)recorriendo en "preorde" pasar a una cola los alumnos aprobados
+5)recorriendo en "inorden" pasar a una pila los alumnos reprobados
+6)eliminar de la lista enlazada todos los alumnos que la
+nota promedio final sea menor a una nota ingresada por
+parametro.
+7)determinar la nota promedio de los hombres y las mujeres
+8)ingresado por teclado.

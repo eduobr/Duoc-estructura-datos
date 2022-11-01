@@ -1,0 +1,15 @@
+Indicaciones
+
+-Generar pedeido de pizzas empleado:
+
+-calse pizza (nombre,precio)
+-nombre de cliente
+-hora pedido(5-10)
+-hora de despacho(15-20)
+-hora recibe(5-40)
+-es gratis(pasado 30 min.)
+
+-la generacion de pedido debe ser automatica(ingresar manualmentre sera:
+tipo de pizza y  ingresar los clientes)
+
+-debe crear un total de 100 pedidos
